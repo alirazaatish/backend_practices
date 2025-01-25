@@ -9,66 +9,8 @@ yarn-error.log*
 node_modules/
 bower_components/
 
-# Build outputs
-dist/
-build/
-
-# System files
-.DS_Store
-Thumbs.db
 
 # Environment files
 .env
 .env.local
 .env.*.local
-
-# IDEs and editors
-.vscode/
-.idea/
-*.sublime-workspace
-*.swp
-
-# OS-generated files
-.DS_Store
-*.tmp
-*.bak
-*.orig
-
-# Python files
-*.pyc
-*.pyo
-__pycache__/
-
-# Java files
-*.class
-
-# Go binary files
-*.exe
-*.dll
-*.so
-*.dylib
-
-# JavaScript/TypeScript
-*.tsbuildinfo
-
-# Temporary files
-*.tmp
-*.lock
-
-# Git files
-.git/
-
-# Coverage reports
-coverage/
-*.lcov
-
-# Packages
-*.tgz
-
-# Archives
-*.zip
-*.tar.gz
-*.rar
-
-# Images (if temporary or auto-generated)
-*.generated.*
